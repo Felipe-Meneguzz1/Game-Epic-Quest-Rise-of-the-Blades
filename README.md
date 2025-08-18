@@ -55,7 +55,7 @@ Estudar e aplicar técnicas de desenvolvimento de jogos 3D utilizando a **Unreal
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Unreal Engine** (desenvolvimento e prototipagem)  
-- **Blender/Maya** (apoio à modelagem, se necessário)  
+- **Blender/Maya** (apoio à modelagem)  
 - **Git & GitHub** (controle de versão e documentação)
 
 ---
