@@ -1,5 +1,6 @@
-# Visual Studio 2015 user specific files
+# Visual Studio 2015+ user specific files
 .vs/
+.vsconfig
 
 # Compiled Object files
 *.slo
@@ -40,7 +41,6 @@
 *.sdf
 *.VC.db
 *.VC.opendb
-.vsconfig
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -74,24 +74,8 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Adicional recomendado
-# Evitar arquivos grandes e mídia pesada
-*.mp4
-*.mov
-*.wav
-*.mp3
-*.tif
-*.tiff
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.dds
-*.exr
-*.hdr
-
-# Evitar arquivos temporários do editor
+# Arquivos temporários e backups
 *.tmp
 *.bak
 *.backup
-CrashReportClient.ini
+CrashReportClient.ini"Saved/" 
