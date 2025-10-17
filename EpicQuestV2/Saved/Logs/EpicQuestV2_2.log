@@ -3082,3 +3082,183 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.17-23.12.38:390][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 639.529175, Update Interval: 333.377472
 [2025.10.17-23.13.07:959][487]LogSlate: Window 'Redirecionar animações' being destroyed
 [2025.10.17-23.13.12:508][619]LogPSOHitching: Encountered 200 PSO creation hitches so far (127 graphics, 73 compute). 0 of them were precached.
+[2025.10.17-23.14.41:917][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.17-23.14.41:920][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/RiseQuestV2' took 0.074
+[2025.10.17-23.14.41:922][292]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.17-23.14.41:922][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.17-23.14.41:943][292]LogSkeletalMesh: Display: OnRegister[/Game/Viking/Mesh/SK_Viking.SK_Viking]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.10.17-23.14.41:944][292]LogSkeletalMesh: Display: OnRegister[/Game/Viking/Mesh/SK_Viking.SK_Viking]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.10.17-23.14.42:179][292]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2025.10.17-23.14.42:241][292]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.17-23.14.42:241][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.17-23.14.42:279][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2025.10.17-23.14.42:280][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/BP_ThirdPersonCharacter_Auto1BBBF4EB84EF1C73BE8526AB7293D63F5.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2025.10.17-23.14.42:283][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/BS_Idle_Walk_Run] ([1] browsable assets)...
+[2025.10.17-23.14.42:345][292]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/animacaoViking/BS_Idle_Walk_Run.BS_Idle_Walk_Run]
+[2025.10.17-23.14.42:347][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/BS_Idle_Walk_Run]
+[2025.10.17-23.14.42:369][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/BS_Idle_Walk_Run_Auto1
+[2025.10.17-23.14.42:369][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/BS_Idle_Walk_Run_Auto18397A1A74C193193CE73F9B58DA05116.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/BS_Idle_Walk_Run_Auto1.uasset'
+[2025.10.17-23.14.42:372][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MM_Idle] ([1] browsable assets)...
+[2025.10.17-23.14.42:414][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MM_Idle.MM_Idle]
+[2025.10.17-23.14.42:414][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MM_Idle]
+[2025.10.17-23.14.42:458][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MM_Idle_Auto1
+[2025.10.17-23.14.42:458][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MM_Idle_Auto16B27AFC841E6FCDCFA4426B65242F26D.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MM_Idle_Auto1.uasset'
+[2025.10.17-23.14.42:460][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MM_Land] ([1] browsable assets)...
+[2025.10.17-23.14.42:483][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MM_Land.MM_Land]
+[2025.10.17-23.14.42:484][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MM_Land]
+[2025.10.17-23.14.42:515][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MM_Land_Auto1
+[2025.10.17-23.14.42:515][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MM_Land_Auto1EE46ABD545147656B98841A2948330B7.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MM_Land_Auto1.uasset'
+[2025.10.17-23.14.42:516][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MM_Fall_Loop] ([1] browsable assets)...
+[2025.10.17-23.14.42:537][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MM_Fall_Loop.MM_Fall_Loop]
+[2025.10.17-23.14.42:537][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MM_Fall_Loop]
+[2025.10.17-23.14.42:565][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MM_Fall_Loop_Auto1
+[2025.10.17-23.14.42:565][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MM_Fall_Loop_Auto1809BEF6E4D64C508B79684946390A45C.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MM_Fall_Loop_Auto1.uasset'
+[2025.10.17-23.14.42:566][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MM_Jump] ([1] browsable assets)...
+[2025.10.17-23.14.42:589][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MM_Jump.MM_Jump]
+[2025.10.17-23.14.42:589][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MM_Jump]
+[2025.10.17-23.14.42:610][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MM_Jump_Auto1
+[2025.10.17-23.14.42:610][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MM_Jump_Auto1D0222FB94E2ECF397A5CE5A7A14257B4.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MM_Jump_Auto1.uasset'
+[2025.10.17-23.14.42:611][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Walk_Fwd] ([1] browsable assets)...
+[2025.10.17-23.14.42:630][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Walk_Fwd.MF_Unarmed_Walk_Fwd]
+[2025.10.17-23.14.42:630][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Walk_Fwd]
+[2025.10.17-23.14.42:652][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Auto1
+[2025.10.17-23.14.42:652][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Walk_Fwd_Auto1B927E0F24C8A195BDF2B089463EA318C.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Auto1.uasset'
+[2025.10.17-23.14.42:653][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Left] ([1] browsable assets)...
+[2025.10.17-23.14.42:672][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Walk_Fwd_Left.MF_Unarmed_Walk_Fwd_Left]
+[2025.10.17-23.14.42:672][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Left]
+[2025.10.17-23.14.42:696][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Left_Auto1
+[2025.10.17-23.14.42:696][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Walk_Fwd_Left_Auto14F9AD3AF4D263DA33C2191A7322661FB.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Left_Auto1.uasset'
+[2025.10.17-23.14.42:698][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Walk_Left] ([1] browsable assets)...
+[2025.10.17-23.14.42:721][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Walk_Left.MF_Unarmed_Walk_Left]
+[2025.10.17-23.14.42:721][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Walk_Left]
+[2025.10.17-23.14.42:744][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Left_Auto1
+[2025.10.17-23.14.42:745][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Walk_Left_Auto18CE9F79A493C340A88E1E1A2171086D5.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Left_Auto1.uasset'
+[2025.10.17-23.14.42:745][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Right] ([1] browsable assets)...
+[2025.10.17-23.14.42:766][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Walk_Fwd_Right.MF_Unarmed_Walk_Fwd_Right]
+[2025.10.17-23.14.42:766][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Right]
+[2025.10.17-23.14.42:794][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Right_Auto1
+[2025.10.17-23.14.42:794][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Walk_Fwd_Right_Auto1E68C5D744583CA41934913B4800D6C7A.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Fwd_Right_Auto1.uasset'
+[2025.10.17-23.14.42:796][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Walk_Right] ([1] browsable assets)...
+[2025.10.17-23.14.42:815][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Walk_Right.MF_Unarmed_Walk_Right]
+[2025.10.17-23.14.42:815][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Walk_Right]
+[2025.10.17-23.14.42:837][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Right_Auto1
+[2025.10.17-23.14.42:837][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Walk_Right_Auto1460D33B34865B0C6248C8880A941AEA9.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Right_Auto1.uasset'
+[2025.10.17-23.14.42:839][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Walk_Bwd] ([1] browsable assets)...
+[2025.10.17-23.14.42:861][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Walk_Bwd.MF_Unarmed_Walk_Bwd]
+[2025.10.17-23.14.42:861][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Walk_Bwd]
+[2025.10.17-23.14.42:880][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Auto1
+[2025.10.17-23.14.42:880][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Walk_Bwd_Auto14BFBC8074AE651DA22BBFDB3C812AA9B.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Auto1.uasset'
+[2025.10.17-23.14.42:880][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Left] ([1] browsable assets)...
+[2025.10.17-23.14.42:901][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Walk_Bwd_Left.MF_Unarmed_Walk_Bwd_Left]
+[2025.10.17-23.14.42:901][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Left]
+[2025.10.17-23.14.42:924][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Left_Auto1
+[2025.10.17-23.14.42:924][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Walk_Bwd_Left_Auto1C36C95754A09CF07ADF6CDA5D36A3F1C.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Left_Auto1.uasset'
+[2025.10.17-23.14.42:924][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Right] ([1] browsable assets)...
+[2025.10.17-23.14.42:943][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Walk_Bwd_Right.MF_Unarmed_Walk_Bwd_Right]
+[2025.10.17-23.14.42:943][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Right]
+[2025.10.17-23.14.42:967][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Right_Auto1
+[2025.10.17-23.14.42:967][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Walk_Bwd_Right_Auto1AF6A37144CA638DD267E94B3C5701FA5.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Walk_Bwd_Right_Auto1.uasset'
+[2025.10.17-23.14.42:969][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Jog_Fwd] ([1] browsable assets)...
+[2025.10.17-23.14.42:990][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Jog_Fwd.MF_Unarmed_Jog_Fwd]
+[2025.10.17-23.14.42:990][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Jog_Fwd]
+[2025.10.17-23.14.43:013][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Auto1
+[2025.10.17-23.14.43:013][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Jog_Fwd_Auto132E687304BAF2ED09811DDA0780ECA8C.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Auto1.uasset'
+[2025.10.17-23.14.43:014][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Left] ([1] browsable assets)...
+[2025.10.17-23.14.43:034][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Jog_Fwd_Left.MF_Unarmed_Jog_Fwd_Left]
+[2025.10.17-23.14.43:034][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Left]
+[2025.10.17-23.14.43:054][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Left_Auto1
+[2025.10.17-23.14.43:054][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Jog_Fwd_Left_Auto1AD3FF42A495623D44A7C96B17E937B66.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Left_Auto1.uasset'
+[2025.10.17-23.14.43:055][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Right] ([1] browsable assets)...
+[2025.10.17-23.14.43:076][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Jog_Fwd_Right.MF_Unarmed_Jog_Fwd_Right]
+[2025.10.17-23.14.43:076][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Right]
+[2025.10.17-23.14.43:102][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Right_Auto1
+[2025.10.17-23.14.43:102][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Jog_Fwd_Right_Auto1C6D892FA4A8F0B246EB8A4902914FAFF.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Fwd_Right_Auto1.uasset'
+[2025.10.17-23.14.43:103][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Jog_Left] ([1] browsable assets)...
+[2025.10.17-23.14.43:125][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Jog_Left.MF_Unarmed_Jog_Left]
+[2025.10.17-23.14.43:125][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Jog_Left]
+[2025.10.17-23.14.43:148][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Left_Auto1
+[2025.10.17-23.14.43:148][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Jog_Left_Auto13B1DDC654441CE13CB2AD1A469569BB0.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Left_Auto1.uasset'
+[2025.10.17-23.14.43:149][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Jog_Right] ([1] browsable assets)...
+[2025.10.17-23.14.43:168][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Jog_Right.MF_Unarmed_Jog_Right]
+[2025.10.17-23.14.43:168][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Jog_Right]
+[2025.10.17-23.14.43:190][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Right_Auto1
+[2025.10.17-23.14.43:190][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Jog_Right_Auto117C88EEA479F322268225DA84E451769.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Right_Auto1.uasset'
+[2025.10.17-23.14.43:190][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Jog_Bwd] ([1] browsable assets)...
+[2025.10.17-23.14.43:210][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Jog_Bwd.MF_Unarmed_Jog_Bwd]
+[2025.10.17-23.14.43:210][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Jog_Bwd]
+[2025.10.17-23.14.43:230][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Auto1
+[2025.10.17-23.14.43:230][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Jog_Bwd_Auto1C13C9C944616791FCBF01784D6502BB0.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Auto1.uasset'
+[2025.10.17-23.14.43:232][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Left] ([1] browsable assets)...
+[2025.10.17-23.14.43:256][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Jog_Bwd_Left.MF_Unarmed_Jog_Bwd_Left]
+[2025.10.17-23.14.43:256][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Left]
+[2025.10.17-23.14.43:284][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Left_Auto1
+[2025.10.17-23.14.43:284][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Jog_Bwd_Left_Auto15E9C7EF54364AC0E1A71B5A628BDF8EE.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Left_Auto1.uasset'
+[2025.10.17-23.14.43:285][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Right] ([1] browsable assets)...
+[2025.10.17-23.14.43:305][292]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/animacaoViking/MF_Unarmed_Jog_Bwd_Right.MF_Unarmed_Jog_Bwd_Right]
+[2025.10.17-23.14.43:305][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Right]
+[2025.10.17-23.14.43:327][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Right_Auto1
+[2025.10.17-23.14.43:327][292]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/MF_Unarmed_Jog_Bwd_Right_Auto17C122F1145DA69CEC135EABBE58E901E.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/animacaoViking/MF_Unarmed_Jog_Bwd_Right_Auto1.uasset'
+[2025.10.17-23.14.43:327][292]LogFileHelpers: Auto-saving content packages took 1.407
+[2025.10.17-23.15.26:778][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-23.15.26:816][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.17-23.15.26:816][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.17-23.15.26:834][519]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.17-23.15.26:835][519]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/BP_ThirdPersonCharacterB0F1631C4E8021C749F3AB801F815D95.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.17-23.15.26:844][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.955 ms (total: 136.669 ms)
+[2025.10.17-23.15.26:887][519]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.17-23.15.26:887][519]LogContentValidation: Enabled validators:
+[2025.10.17-23.15.26:887][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.17-23.15.26:887][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.17-23.15.26:887][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.17-23.15.26:887][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.17-23.15.26:887][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.17-23.15.26:887][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.17-23.15.26:887][519]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.10.17-23.15.27:326][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-23.15.27:377][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.17-23.15.27:377][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.17-23.15.27:400][544]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.17-23.15.27:400][544]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/BP_ThirdPersonCharacter746F270F40D8EF81AFCA2194D4BE48DD.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.17-23.15.27:415][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.027 ms (total: 225.697 ms)
+[2025.10.17-23.15.27:457][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.17-23.15.27:457][544]LogContentValidation: Enabled validators:
+[2025.10.17-23.15.27:457][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.17-23.15.27:457][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.17-23.15.27:457][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.17-23.15.27:457][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.17-23.15.27:457][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.17-23.15.27:457][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.17-23.15.27:457][544]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.10.17-23.15.27:969][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-23.15.28:016][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.17-23.15.28:017][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.17-23.15.28:038][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.17-23.15.28:039][574]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/BP_ThirdPersonCharacterB5A60319423EDC710FD17E9E680564FE.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.17-23.15.28:050][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.203 ms (total: 307.900 ms)
+[2025.10.17-23.15.28:093][574]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.17-23.15.28:093][574]LogContentValidation: Enabled validators:
+[2025.10.17-23.15.28:093][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.17-23.15.28:093][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.17-23.15.28:093][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.17-23.15.28:093][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.17-23.15.28:093][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.17-23.15.28:093][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.17-23.15.28:093][574]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.10.17-23.15.28:571][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.17-23.15.28:615][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.17-23.15.28:615][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.17-23.15.28:648][602]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.17-23.15.28:649][602]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/BP_ThirdPersonCharacter4032C051437E9A3A2D2EF0BD8BA0F1B5.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.17-23.15.28:664][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.764 ms (total: 400.664 ms)
+[2025.10.17-23.15.28:707][602]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.17-23.15.28:707][602]LogContentValidation: Enabled validators:
+[2025.10.17-23.15.28:707][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.17-23.15.28:707][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.17-23.15.28:707][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.17-23.15.28:707][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.17-23.15.28:707][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.17-23.15.28:707][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.17-23.15.28:707][602]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.10.17-23.18.19:916][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 981.086731
+[2025.10.17-23.18.20:916][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.17-23.18.20:916][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 981.752808, Update Interval: 301.995911
