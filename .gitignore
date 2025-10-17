@@ -78,4 +78,6 @@ DerivedDataCache/*
 *.tmp
 *.bak
 *.backup
-CrashReportClient.ini"Saved/" 
+*.log
+*.LOG
+CrashReportClient.ini
