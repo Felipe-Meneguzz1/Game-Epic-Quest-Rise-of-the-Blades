@@ -5844,3 +5844,17 @@ Certifique-se de que "GreystonePlayerCharacter" foi compilado para  Reset Orient
 [2025.10.17-13.49.43:762][734]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
 [2025.10.17-13.49.43:771][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2025.10.17-13.49.43:856][735]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2025.10.17-13.52.38:694][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5442.959961
+[2025.10.17-13.52.39:697][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.17-13.52.39:697][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5443.625977, Update Interval: 338.389221
+[2025.10.17-13.56.59:159][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.17-13.56.59:163][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/RiseQuestV2' took 0.042
+[2025.10.17-13.56.59:169][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.17-13.56.59:429][771]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.17-13.56.59:429][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.17-13.56.59:506][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2025.10.17-13.56.59:506][771]LogSavePackage: Moving '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/BP_ThirdPersonCharacter_Auto58E4C445C48DB68768E1746BBD9A123D1.tmp' to '../../../../../../Users/cagni/OneDrive/Documentos/GitHub/Game-Epic-Quest-Rise-of-the-Blades/EpicQuestV2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2025.10.17-13.56.59:514][771]LogFileHelpers: Auto-saving content packages took 0.352
+[2025.10.17-13.59.07:581][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5831.848145
+[2025.10.17-13.59.08:579][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.17-13.59.08:579][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5832.514160, Update Interval: 340.762360
