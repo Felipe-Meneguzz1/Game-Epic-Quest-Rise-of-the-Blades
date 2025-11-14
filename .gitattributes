@@ -1,0 +1,2 @@
+EpicQuestV2/Content/Music/music.uasset filter=lfs diff=lfs merge=lfs -text
+EpicQuestV2/Saved/Autosaves/Game/Music/music_Auto1.uasset filter=lfs diff=lfs merge=lfs -text
